@@ -12,7 +12,8 @@ const section = document.querySelector('section');
 
     function displayCatInfo(catString) {
       let total = 0;
-      let male = 0;
+      
+      let male = 1;
 
       // Add your code here
 
